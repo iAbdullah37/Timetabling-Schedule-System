@@ -14,15 +14,7 @@ movement of students and staff from one classroom to another, without
 conflicts. Being an NP-complete problem, many attempts have been made using 
 varying computational methods to obtain optimal solutions to the timetabling 
 problem. Genetic algorithms, based on Darwin's theory of evolution is one such 
-method. The aim of this study is to optimize a general university course 
-scheduling process based on genetic algorithms using some defined constraints.
-AIM OF THE PROJECT
-The aim of this work is to demonstrate the usefulness of genetic algorithm usage 
-to obtain optimal solutions in general timetable scheduling. Although much 
-commercial scheduling software is available, its lack of generality rarely meets the 
-demands of various institutions.
-Therefore, the requirement of specific coding as per respective universities is the 
-biggest hurdle to overcome.
+method.
 
 
 ## Abstraction:
